@@ -37,13 +37,13 @@ def transform_text(text):
     return " ".join(tokens)
 
 # Load model dari file
-with open('/content/model-sms_spam.pkl', 'rb') as model_file:
+with open('model-sms_spam.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 
 # Streamlit setup
 st.set_page_config(
     page_title="Deteksi SMS Spam",
-    page_icon="/content/logoikmi.jpg",
+    page_icon="logoikmi.jpg",
     layout="wide"
 )
 
