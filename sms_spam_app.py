@@ -108,5 +108,5 @@ if st.button("Reset"):
 st.markdown("<div style='background-color: #0075b8; color: white; padding: 10px; text-align: center;'>"
             "<p style='font-size: 18px;'>STMIK IKMI CIREBON</p>"
             "<p style='font-size: 14px;'>@TeknikInformatika | arifsofyan004@gmail.com</p>"
-            "<p style='font-size: 12px;'>Copyright © 2023 @arf.sof</p>"
+            "<p style='font-size: 12px;'>Copyright © 2023 arf.sof</p>"
             "</div>", unsafe_allow_html=True)
