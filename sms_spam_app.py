@@ -72,7 +72,7 @@ st.markdown(
 )
 
 # Logo STMIK IKMI Cirebon (ditempatkan di header)
-st.image("/content/logoikmi.jpg", use_column_width=False, width=200, caption="STMIK IKMI Cirebon")
+st.image("logoikmi.jpg", use_column_width=False, width=200, caption="STMIK IKMI Cirebon")
 
 # Tulisan "Aplikasi Deteksi SMS Spam" di sebelah kiri
 st.markdown("<div style='text-align: left;'>"
